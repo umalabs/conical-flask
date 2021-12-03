@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="130"
+   height="130"
+   viewbox="0 0 100 100"
+   fill="transparent"
+   version="1.1"
+   id="svg23"
+   sodipodi:docname="conical-flask.svg"
+   style="stroke:#000000;stroke-width:4px;stroke-linejoin:round"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/igor/IdeaProjects/umalabs/conical-flask.png"
+   inkscape:export-xdpi="155.68401"
+   inkscape:export-ydpi="155.68401">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview25"
+     showgrid="false"
+     inkscape:pagecheckerboard="false"
+     fit-margin-top="15"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="15"
+     inkscape:zoom="2.36"
+     inkscape:cx="58.987998"
+     inkscape:cy="105.15753"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23" />
+  <defs
+     id="defs17">
+    <mask
+       id="mask">
+      <g
+         id="g14"
+         style="fill:#000000;stroke-width:0">
+        <path
+           d="m 0,50 h 25 c 25,-15 25,15 50,0 h 25 v 50 H 0"
+           id="path2"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <circle
+           cx="45"
+           cy="65"
+           r="8"
+           id="circle4" />
+        <circle
+           cx="65"
+           cy="70"
+           r="5"
+           id="circle6" />
+        <circle
+           cx="52"
+           cy="80"
+           r="4"
+           id="circle8" />
+        <circle
+           cx="35"
+           cy="85"
+           r="3"
+           id="circle10" />
+        <circle
+           cx="65"
+           cy="88"
+           r="2"
+           id="circle12" />
+      </g>
+    </mask>
+  </defs>
+  <path
+     d="m 50.326238,17 h 30 q -5,0 -5,30 l 30.000002,50 q 8,16 -10.000002,16 h -60 q -20,0 -10,-16 l 30,-50 q 0,-30 -5,-30 h 1"
+     id="path19"
+     inkscape:connector-curvature="0" />
+  <path
+     mask="url(#mask)"
+     d="M 50,27 80,77 C 90,93 90,93 70,93 H 40 C 10,93 10,93 20,77"
+     id="path21"
+     inkscape:connector-curvature="0"
+     style="fill:#55d400;stroke-width:0"
+     transform="translate(15.326238,15)" />
+</svg>
